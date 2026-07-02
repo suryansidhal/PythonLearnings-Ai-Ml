@@ -264,7 +264,7 @@ Found a bug or have an improvement? Feel free to:
 
 ---
 
-**Made with ✨ by [Your Name]**
+**Made with ✨ by [Suryansi Dhal]**
 
 Last updated: [01-07-2026]  
 Status: ✅ Production Ready
